@@ -2,6 +2,9 @@
 Changelog for package dingo_base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.3 (2021-03-08)
+------------------
+
 0.1.2 (2020-11-26)
 ------------------
 * [dingo_base] Fixed battery topic.
