@@ -2,6 +2,9 @@
 Changelog for package dingo_robot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.0 (2022-01-19)
+------------------
+
 0.1.5 (2022-01-16)
 ------------------
 * Add dependency for dingo_tests
