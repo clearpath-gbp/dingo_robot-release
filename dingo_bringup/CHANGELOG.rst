@@ -2,16 +2,15 @@
 Changelog for package dingo_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.2.1 (2022-03-21)
+0.1.6 (2022-05-17)
 ------------------
-* [dingo_bringup] Updated install script to explicitly use Python3.
+* Fix realsense double namespace error
+* Update realsense launch file based on changes from realsense2_camera
+* Remove unused rs_model argument
 * Switch usage of ifconfig (net-tools) to ip (iproute2) (`#12 <https://github.com/dingo-cpr/dingo_robot/issues/12>`_)
   * Switch usage of ifconfig (net-tools) to ip (iproute2)
   * Remove unnecessary "sudo"
-* Contributors: Joey Yang, Tony Baltovski
-
-0.2.0 (2022-01-19)
-------------------
+* Contributors: Joey Yang
 
 0.1.5 (2022-01-16)
 ------------------
