@@ -1,1 +1,1 @@
-{"trim": "", "base": "d69e6cb", "trimbase": "", "parent": "debian/noetic/dingo_bringup", "previous": "e313c28"}
+{"base": "aafcd32", "parent": "debian/noetic/dingo_bringup", "previous": "fbdf83c", "trim": "", "trimbase": ""}
