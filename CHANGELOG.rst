@@ -2,6 +2,11 @@
 Changelog for package dingo_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.4 (2022-11-23)
+------------------
+* Fixed point_cloud parameter
+* Contributors: Luis Camero
+
 0.2.3 (2022-11-22)
 ------------------
 * Added Blackfly Camera
