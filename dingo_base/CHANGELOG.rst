@@ -2,6 +2,12 @@
 Changelog for package dingo_base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.1 (2023-04-20)
+------------------
+* Adding Sick TIM551 lidar
+* Added mapping for Dingo-D wheel names
+* Contributors: Hilary Luo, Roni Kreinin
+
 0.3.0 (2023-01-30)
 ------------------
 * Updated reset and low battery lighting patterns
