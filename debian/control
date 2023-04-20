@@ -1,0 +1,12 @@
+Source: ros-noetic-dingo-base
+Section: misc
+Priority: optional
+Maintainer: Tony Baltovski <tbaltovski@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-foxy-controller-manager, ros-foxy-diagnostic-updater, ros-foxy-geometry-msgs, ros-foxy-hardware-interface, ros-foxy-realtime-tools, ros-foxy-sensor-msgs, ros-foxy-std-msgs, ros-noetic-catkin, ros-noetic-dingo-msgs, ros-noetic-puma-motor-driver, ros-noetic-puma-motor-msgs, ros-noetic-roscpp, ros-noetic-roslaunch <!nocheck>, ros-noetic-roslint <!nocheck>, ros-noetic-rosserial-server
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-dingo-base
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3-scipy, ros-foxy-controller-manager, ros-foxy-diagnostic-aggregator, ros-foxy-diagnostic-updater, ros-foxy-diff-drive-controller, ros-foxy-geometry-msgs, ros-foxy-imu-filter-madgwick, ros-foxy-realtime-tools, ros-foxy-sensor-msgs, ros-foxy-std-msgs, ros-foxy-teleop-twist-joy, ros-noetic-dingo-control, ros-noetic-dingo-description, ros-noetic-dingo-msgs, ros-noetic-puma-motor-driver, ros-noetic-puma-motor-msgs, ros-noetic-rosserial-python, ros-noetic-rosserial-server, ros-noetic-sick-tim, ros-noetic-tf, ros-noetic-topic-tools
+Description: Dingo's mobility and sensor base.
