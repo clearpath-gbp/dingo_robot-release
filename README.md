@@ -1,3 +1,29 @@
+## dingo_robot (noetic) - 0.3.2-1
+
+The packages in the `dingo_robot` repository were released into the `noetic` distro by running `/usr/bin/bloom-release dingo_robot -r noetic -t noetic` on `Tue, 28 May 2024 18:02:16 -0000`
+
+These packages were released:
+- `dingo_base`
+- `dingo_bringup`
+- `dingo_robot`
+
+Version of package(s) in repository `dingo_robot`:
+
+- upstream repository: https://github.com/dingo-cpr/dingo_robot.git
+- release repository: https://github.com/clearpath-gbp/dingo_robot-release.git
+- rosdistro version: `0.3.1-1`
+- old version: `0.3.1-1`
+- new version: `0.3.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.24.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## dingo_robot (noetic) - 0.3.1-1
 
 The packages in the `dingo_robot` repository were released into the `noetic` distro by running `/usr/bin/bloom-release dingo_robot -r noetic -t noetic` on `Thu, 20 Apr 2023 22:14:43 -0000`
